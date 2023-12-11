@@ -56,7 +56,6 @@ public class NewUserLogic {
 	        int rowsAffected = pst.executeUpdate();
 	        if (rowsAffected > 0) {
 	            JOptionPane.showMessageDialog(null, "New user entered successfully.");
-/////////////////////////////////////////////////////////////////////////////////////////////////////////	            Limpar();
 	        } else {
 	            JOptionPane.showMessageDialog(null, "Failed to insert new user.");
 	        }
