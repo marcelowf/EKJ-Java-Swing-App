@@ -1,4 +1,4 @@
-# CRUD-using-Swing
+# Yeti Meneger
 
 Este é um projeto básico em Java que implementa operações CRUD (Create, Read, Update, Delete) para gerenciar informações de usuários. A interface gráfica é construída utilizando o framework Java Swing, permitindo uma interação intuitiva. Além disso, o projeto oferece a funcionalidade de salvar os dados dos usuários em um arquivo .txt.
 
